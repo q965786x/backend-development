@@ -1,0 +1,24 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/q965786x/backend-development#readme",
+  "bugs": {
+    "url": "https://github.com/q965786x/backend-development/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q965786x/backend-development.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
